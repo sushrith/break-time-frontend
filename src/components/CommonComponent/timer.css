@@ -1,0 +1,27 @@
+.sad1{
+    height: 400px;
+    /* margin-left: 35%; */
+    margin-top: 3%;
+}
+#notfound{
+    color: red;
+}
+.clock{
+    align-items: center;
+}
+.clock span{
+    display: inline-flex!important;
+
+}
+
+.inputTimer{
+    padding: 7px 20px;
+    margin: 8px 14px;
+    /* display: inline-block; */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.timer{
+    text-align: center;
+}
